@@ -27,7 +27,7 @@ This project performs customer sentiment analysis on reviews for the Starlink pr
     ```
 ## Usage
 1. Run the Notebook: Open and execute the Jupyter Notebook Sentiment_Analysis.ipynb to perform the entire analysis.
-2. Web Scraping: Modify the web scraping code as needed to target specific products or pages.
+2. Web Scraping: Modify the web scraping code to target specific products or pages.
 3. Analyze Sentiments: The notebook walks through data processing, cleaning, and sentiment analysis steps.
 
 ## Project Structure
