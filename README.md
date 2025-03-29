@@ -1,4 +1,4 @@
-# Customer Sentiment Analysis on Starlink Reviews from Jumia
+# Customer Sentiment Analysis on Starlink Reviews from Jumia Kenya
 
 ## Project Overview
 
